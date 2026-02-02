@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+matplotlib
+reportlab
+streamlit-webrtc
+av
+face-recognition
