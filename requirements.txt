@@ -1,8 +1,7 @@
 streamlit
-opencv-python
+opencv-python-headless
 numpy
+pandas
 matplotlib
 reportlab
-streamlit-webrtc
-av
-face-recognition
+Pillow
